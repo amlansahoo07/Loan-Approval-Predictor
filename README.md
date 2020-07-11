@@ -1,6 +1,6 @@
-[=========================================================================]
-        LOAN APPROVAL PREDICTOR USING PYTHON AND MACHINE LEARNING
-[=========================================================================]
+=========================================================================  
+        LOAN APPROVAL PREDICTOR USING PYTHON AND MACHINE LEARNING  
+=========================================================================  
 
 AIM - Aim of the project is to train a Machine Learning model to approve or decline a Loan application and fit it to a dataset containing details of Loan applications waiting for approval.
 
